@@ -1,0 +1,17 @@
+{
+  "name": "vercel-next-yarn-2-pnp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Jones <kitibyte@protonmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "canary",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
